@@ -28,7 +28,7 @@ const HowItWorks: React.FC = () => {
     { icon: <StepIcon1 />, title: 'Tap to Start', description: 'Begin your creation on our intuitive touch-screen device. No lines, no waiting.' },
     { icon: <StepIcon2 />, title: 'Mix & Match', description: 'Choose your base—creamy milkshake or refreshing fruity—and up to two delicious flavors.' },
     { icon: <StepIcon3 />, title: 'Customize It', description: 'Dial in your perfect sweetness and ice levels, then add premium toppings for an extra treat.' },
-    { icon: <StepIcon4 />, title: 'Tap & Enjoy', description: 'Pay securely on the device and watch as our automated system crafts your unique beverage in minutes.' },
+    { icon: <StepIcon4 />, title: 'Tap & Enjoy', description: 'Pay securely on the device and watch as our beverage expert crafts your unique beverage in minutes.' },
   ];
 
   return (
