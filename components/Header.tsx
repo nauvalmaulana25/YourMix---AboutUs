@@ -24,7 +24,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-6 py-3">
         <div className="flex justify-between items-center">
           <a href="#" className="flex items-center gap-2">
-            <img src="https://i.postimg.cc/vmFsrP6g/IMG-4883-1.png" alt="YourMix Logo" className="w-10 h-10 object-contain" />
+            <img src="https://i.imgur.com/mrPrjCA.png" alt="YourMix Logo" className="w-10 h-10 object-contain" />
             <span className="text-2xl font-bold text-brand-dark">YourMix</span>
           </a>
           

@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
 
   return (
     <section className="relative h-screen flex items-center justify-center pt-20">
-      <div className="absolute inset-0 bg-cover bg-center z-0" style={{ backgroundImage: "url('https://i.postimg.cc/pTGBK61m/Google-AI-Studio-2025-10-07-T16-17-55-551-Z-1.png')" }}>
+      <div className="absolute inset-0 bg-cover bg-center z-0" style={{ backgroundImage: "url('https://i.imgur.com/WHRZ2q2.png')" }}>
         <div className="absolute inset-0 bg-black/50"></div>
       </div>
       <div className="relative z-10 text-center text-white px-4">

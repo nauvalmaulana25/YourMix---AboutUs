@@ -21,7 +21,7 @@ const Menu: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16 text-left">
           <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-shadow duration-300 group">
             <img 
-              src="https://i.postimg.cc/zf151d7K/Google-AI-Studio-2025-10-08-T04-21-12-030-Z.png" 
+              src="https://i.imgur.com/5CbshM1.png" 
               alt="Creamy Milkshake" 
               className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
             />
@@ -32,7 +32,7 @@ const Menu: React.FC = () => {
           </div>
           <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-shadow duration-300 group">
             <img 
-              src="https://i.postimg.cc/ZRB1BpVw/Google-AI-Studio-2025-10-08-T04-24-51-065-Z.png" 
+              src="https://i.imgur.com/horP2jq.png" 
               alt="Fruity Beverage" 
               className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
             />

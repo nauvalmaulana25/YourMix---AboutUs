@@ -23,10 +23,10 @@ export const fruityFlavors: MenuItem[] = [
 ];
 
 export const toppings: MenuItem[] = [
-  { name: 'Jellies', imgSrc: 'https://i.postimg.cc/2565t9SB/3-coloured-bubble-tea-jelly-recipe.jpg' },
-  { name: 'Chocolate Candy', imgSrc: 'https://i.postimg.cc/t4GCXCCG/citra-rasa-permen-cha-cha-5gr-coklat-delfi-all-varian-full03-hncd8xb9.jpg' },
-  { name: 'Rainbow Sprinkles', imgSrc: 'https://i.postimg.cc/L5BR5j8b/image.png' },
-  { name: 'Yoghurt', imgSrc: 'https://i.postimg.cc/Prr0Yg3w/image.png' },
-  { name: 'Oreo Crumbles', imgSrc: 'https://i.postimg.cc/T357cfrP/image.png' },
-  { name: 'Fruit Slices', imgSrc: 'https://i.postimg.cc/CKYGfgJF/image.png' },
+  { name: 'Jellies', imgSrc: 'https://i.imgur.com/N8yfZT6.png' },
+  { name: 'Chocolate Candy', imgSrc: 'https://i.imgur.com/BbFuqQv.png' },
+  { name: 'Rainbow Sprinkles', imgSrc: 'https://i.imgur.com/65PZX5l.png' },
+  { name: 'Yoghurt', imgSrc: 'https://i.imgur.com/rlYIVLr.png' },
+  { name: 'Oreo Crumbles', imgSrc: 'https://i.imgur.com/9gqUBoC.png' },
+  { name: 'Fruit Slices', imgSrc: 'https://i.imgur.com/ZJg83PA.png' },
 ];
